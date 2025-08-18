@@ -33,3 +33,28 @@ span.c{
     border: 1px solid blue;
     background-color: yellow;
 }
+
+.bg-practice{
+    background-color: black;
+    padding: 20px;
+}
+
+.bg-practice h1{
+    background-color: chartreuse;
+}
+
+.bg-practice p{
+    background-color: red;
+}
+
+.d-h-w{
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+.d2-h-w{
+    min-height: 100px;
+    min-width: 500px;
+    background-color: powderblue;
+}
