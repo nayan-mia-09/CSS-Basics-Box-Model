@@ -58,3 +58,13 @@ span.c{
     min-width: 500px;
     background-color: powderblue;
 }
+
+.box-model{
+    background-color: dimgray;
+    width: 300px;
+    width: 50%;
+    border: 15px solid green;
+    margin: 20px;
+    padding: 50px;
+    color: white;
+}
