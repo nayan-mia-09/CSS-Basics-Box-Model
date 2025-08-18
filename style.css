@@ -1,10 +1,35 @@
-.d-1{
-    background-color: lightcoral;
-    
+li{
+    display: inline;
 }
-.h-1{
-    color: brown;
+
+span{
+    display: block;
 }
-.p-1{
-    font-weight: 800;
+
+a{
+    display:block;
+}
+
+span.a{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.b{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.c{
+    display: block;
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    background-color: yellow;
 }
