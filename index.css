@@ -95,3 +95,21 @@ ul li:nth-child(3){
     transform: translate(100px , 150px) rotate(50deg) scale(.5) skew(10deg);
   
 }
+
+.para{
+    background-color: black;
+    color: white;
+    margin-top: 200px;
+    padding: 20px;
+}
+
+.para{
+    font-size: 20px;
+    line-height: 2rem;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    overflow: scroll;
+    cursor: pointer;
+}
