@@ -14,3 +14,18 @@
     margin-left: 20px;
     
 }
+
+.d3{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: cadetblue !important;
+}
+
+#div3 {
+    background-color: brown !important;
+}
+
+.d3{
+    background-color: chartreuse !important;
+}
